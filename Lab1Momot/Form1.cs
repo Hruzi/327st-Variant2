@@ -18,33 +18,7 @@ namespace Lab1Momot
         public Form1()
         {
             InitializeComponent();
-            // Help Label
-           /* this.helpProvider1 = new System.Windows.Forms.HelpProvider();
 
-            // Tell the HelpProvider what controls to provide help for, and
-            // what the help string is.
-            this.helpProvider1.SetShowHelp(this.button1, true);
-            this.helpProvider1.SetHelpString(this.button1, "Select symbol and enter the button 'otobrazit' for see information");
-
-            this.helpProvider1.SetShowHelp(this.button2, true);
-            this.helpProvider1.SetHelpString(this.button2, "Select code and enter the button 'otobrazit' for see information");
-
-            this.helpProvider1.SetShowHelp(this.dataGridView1, true);
-            this.helpProvider1.SetHelpString(this.dataGridView1, "Information about 'Holdings'");
-
-            this.helpProvider1.SetShowHelp(this.dataGridView2, true);
-            this.helpProvider1.SetHelpString(this.dataGridView2, "Information about 'Master'");
-
-            this.helpProvider1.SetShowHelp(this.dataGridView4, true);
-            this.helpProvider1.SetHelpString(this.dataGridView4, "Information about 'Holdings'");
-
-            this.helpProvider1.SetShowHelp(this.dataGridView3, true);
-            this.helpProvider1.SetHelpString(this.dataGridView3, "Information about 'Industry'");
-
-            this.helpProvider1.SetShowHelp(this.dataGridView5, true);
-            this.helpProvider1.SetHelpString(this.dataGridView5, "Information about 'Master'");
-            // Set what the Help file will be for the HelpProvider.
-            this.helpProvider1.HelpNamespace = "mspaint.chm";*/
         }
         private void Form1_Load(object sender, EventArgs e)
         {
