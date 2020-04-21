@@ -1,0 +1,9 @@
+C:\Users\Hruzi\source\repos\Lab1Momot\Lab1Momot\bin\Debug\Lab1Momot.exe.config
+C:\Users\Hruzi\source\repos\Lab1Momot\Lab1Momot\bin\Debug\Lab1Momot.exe
+C:\Users\Hruzi\source\repos\Lab1Momot\Lab1Momot\bin\Debug\Lab1Momot.pdb
+C:\Users\Hruzi\source\repos\Lab1Momot\Lab1Momot\obj\Debug\Lab1Momot.Form1.resources
+C:\Users\Hruzi\source\repos\Lab1Momot\Lab1Momot\obj\Debug\Lab1Momot.Properties.Resources.resources
+C:\Users\Hruzi\source\repos\Lab1Momot\Lab1Momot\obj\Debug\Lab1Momot.csproj.GenerateResource.cache
+C:\Users\Hruzi\source\repos\Lab1Momot\Lab1Momot\obj\Debug\Lab1Momot.csproj.CoreCompileInputs.cache
+C:\Users\Hruzi\source\repos\Lab1Momot\Lab1Momot\obj\Debug\Lab1Momot.exe
+C:\Users\Hruzi\source\repos\Lab1Momot\Lab1Momot\obj\Debug\Lab1Momot.pdb
