@@ -18,7 +18,6 @@ namespace Lab1Momot
         public Form1()
         {
             InitializeComponent();
-            //sss=h
         }
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -110,12 +109,6 @@ namespace Lab1Momot
                 dataGridView4.DataSource = dt3;
 
             }
-
-
-            
-           // var dt1 = dbf.Execute(@"SELECT ACCT_NBR AS Номер_Аккаунта, SYMBOL AS Символ, SHARES AS Акции, PUR_PRICE AS Стоимость_Покупки, PUR_DATE AS Дата_покупки FROM holdings.dbf ");
-           // dataGridView4.DataSource = dt1;
-
         }
 
         private void button2_Click(object sender, EventArgs e)
