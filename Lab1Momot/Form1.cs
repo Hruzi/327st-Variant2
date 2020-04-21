@@ -18,7 +18,7 @@ namespace Lab1Momot
         public Form1()
         {
             InitializeComponent();
-
+            //sss=h
         }
         private void Form1_Load(object sender, EventArgs e)
         {
